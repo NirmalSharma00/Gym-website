@@ -2,3 +2,5 @@
 Learn how to create a stunning gym website from scratch using HTML, CSS, and JavaScript!
 
 # NIRMAL SHARMA.....
+
+deployed url: https://nirmalsharma00.github.io/Gym-website/
